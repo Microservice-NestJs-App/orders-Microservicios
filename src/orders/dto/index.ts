@@ -1,3 +1,5 @@
+export { OrderItemDto } from './order-item-dto';
+
 export { ChangeOrderStatusDto } from './change-status.dto';
 
 export { OrderPaginationDto } from './pagination-order.dto';
